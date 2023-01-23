@@ -1,0 +1,53 @@
+body{
+    background-color: darkseagreen;
+}
+
+img{
+    width: 60%;
+    margin-left: 19%;
+}
+
+.principal{
+    background: #fff;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    color: darkblue;
+}
+p{
+    text-align: center;
+}
+
+#mission{
+    font-size: 20px;
+    color: #000;
+}
+
+.diferenciales{
+    padding: 20px;
+}
+
+h2{
+    text-align: center;
+    padding: 20px;
+}
+
+.list{
+    
+    font-style: italic;
+    color: blue ;
+} 
+
+ul{
+    display: inline-block;
+    vertical-align: top ;
+    width: 15%;
+    margin-right: 10%;
+    margin-left: 5%;
+}
+
+.imgDif{
+    width: 30%;
+}
